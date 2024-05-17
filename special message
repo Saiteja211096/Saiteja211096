@@ -1,0 +1,5 @@
+# love 
+
+love=str("I LOVE U BABY")
+
+print(love*1000)
